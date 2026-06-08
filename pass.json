@@ -1,0 +1,8 @@
+{
+  "success": true,
+  "availableIds": 15,
+  "items": [
+    { "accountUser": "GamerKaiTan01", "accountPass": "Pass1234x" },
+    { "accountUser": "GamerKaiTan02", "accountPass": "Pass5678y" }
+  ]
+}
